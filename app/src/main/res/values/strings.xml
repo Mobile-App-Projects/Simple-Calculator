@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="brackets">()</string>
+    <string name="leftbracket">(</string>
+    <string name="rightbracket">)</string>
+    <string name="percentage">%</string>
+    <string name="division">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiply">x</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="minus">-</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="add">+</string>
+    <string name="positive_negative">+/-</string>
+    <string name="zero">0</string>
+    <string name="decimal_point">.</string>
+    <string name="equal_sign">=</string>
+    <string name="exponential">e</string>
+    <string name="pi">π</string>
+    <string name="square_root">√</string>
+    <string name="cosine">cos</string>
+    <string name="sine">sin</string>
+    <string name="tangent">tan</string>
+    <string name="natural_log">ln</string>
+    <string name="logarithm">log</string>
+    <string name="absolute_value">|x|</string>
+    <string name="inverse">1/x</string>
+    <string name="next">⇄</string>
+    <string name="radian">Rad</string>
+    <string name="degrees">Deg</string>
+    <string name="power">x<sup><small>y</small></sup></string>
+    <string name="square">x<sup><small>2</small></sup></string>
+    <string name="exp_power">e<sup><small>x</small></sup></string>
+    <string name="inverse_sine">sin<sup><small>-1</small></sup></string>
+    <string name="inverse_cosine">cos<sup><small>-1</small></sup></string>
+    <string name="inverse_tangent">tan<sup><small>-1</small></sup></string>
+    <string name="hyperbole_cosine">cosh</string>
+    <string name="hyperbole_sine">sinh</string>
+    <string name="hyperbole_tangent">tanh</string>
+    <string name="inverse_hyperbole_cosine">cosh<sup><small>-1</small></sup></string>
+    <string name="inverse_hyperbole_sine">sinh<sup><small>-1</small></sup></string>
+    <string name="inverse_hyperbole_tangent">tanh<sup><small>-1</small></sup></string>
+    <string name="power_of_two">2<sup><small>x</small></sup></string>
+    <string name="cube">x<sup><small>3</small></sup></string>
+    <string name="factorial">x!</string>
+    <string name="cube_root"><sup><small>3</small></sup>√</string>
+
+
+
+
+
+</resources>
